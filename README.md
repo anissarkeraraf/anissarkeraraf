@@ -6,7 +6,7 @@
 
 <h3 align="left">Overview:</h3>
 <hr>
-
+  <p align="right"><img align="right" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" /></p>
 
 - 🔭 I’m currently studying in **CSE**
 
@@ -15,7 +15,7 @@
 - 📫 How to reach me **anissarkeraraf@gmail.com**
 
 - ⚡ Fun fact **I'm funny**
-  <p align="right"><img align="right" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" /></p>
+
   
 <h3 align="left">Current Stats:</h3>
 <hr>

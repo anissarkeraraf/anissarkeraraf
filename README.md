@@ -3,6 +3,9 @@
 <h1 align="center">Hi 👋, I'm Anis Sarkar</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
+
+<h3 align="left">Overview:</h3>
+<hr>
 - 🔭 I’m currently studying in **CSE**
 
 - 💬I'm trying **To learn something new**

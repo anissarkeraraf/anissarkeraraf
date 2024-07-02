@@ -15,7 +15,7 @@
 - 📫 How to reach me **anissarkeraraf@gmail.com**
 
 - ⚡ Fun fact **I'm funny**
-  <p align="right"><img align="right" src="(https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)" /></p>
+  <p align="right"><img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" /></p>
   
 <h3 align="left">Current Stats:</h3>
 <hr>

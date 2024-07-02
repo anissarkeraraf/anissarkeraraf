@@ -8,6 +8,7 @@
 - ⚡ Fun fact **I'm funny**
 
 <h3 align="left">Current Stats:</h3>
+<hr/>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anissarkeraraf&" alt="anissarkeraraf" /></p>
 
 

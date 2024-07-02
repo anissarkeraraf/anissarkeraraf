@@ -8,7 +8,19 @@
 - ⚡ Fun fact **I'm funny**
 
 <h3 align="left">Current Stats:</h3>
-<hr/>
+    ---<br><br>
+
+    ...and after a horizontal rule.
+    </code>
+  </td>
+  <td>
+    <code class="highlighter-rouge">
+    Without blank lines, this would be a heading.<br>
+    ---<br>
+    Don't do this!
+    </code>
+  </td>
+</tr>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anissarkeraraf&" alt="anissarkeraraf" /></p>
 
 
